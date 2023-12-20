@@ -102,9 +102,9 @@
 }
 
 .custom-menu {
-    margin-left: 16%; /* Ajuste a porcentagem conforme necessário */
+    margin-left: 0%; /* Ajuste a porcentagem conforme necessário */
     width: 84%; /* O restante da largura da tela */
-    margin-top: 58px;
+    margin-top: 0px;
 }
 
 
@@ -725,7 +725,7 @@ hamburguer
 }
 
 .offcanvas-start-1 {
-    top: 90px;
+    top: 0px;
     left: 0px;
     width: 328px;
     border-right: 1px solid rgba(0, 0, 0, 0.2);
